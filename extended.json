@@ -1,0 +1,21 @@
+{
+ "verification": "5d749a602f80d8960b",
+ "info": {
+     "url_png_icon_64x64": "https://www.solcy.xyz/icon.png",
+     "url_png_logo": "https://www.solcy.xyz/logo.png",
+     "location": "Limassol, Cyprus",
+     "social": {
+         "twitter_handle": "solcypool",
+         "ada_handle": "$solcy",
+         "discord_handle": "SOLCY#6417"
+     },
+     "company": {
+                 "name": "GERDY Limited",
+                 "addr": "117 Apostolon Petrou and Pavlou",
+                 "city": "Limassol",
+                 "country": "Cyprus",
+                 "company_id": "HE428713",
+                 "vat_id": "CY10428713O"
+             }
+ }
+}
