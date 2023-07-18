@@ -1,7 +1,6 @@
 {
-"name": "Solar Cyprus",
-"description": "FIRST and ONLY Cardano pool in Cyprus. Support decentralization by delegating to us!",
+"name": "SOLCY",
+"description": "First and only Cardano pool with publicly announced RELAYS and block producer located in Cyprus!",
 "ticker": "SOLCY",
-"homepage": "https://www.solcy.xyz",
-"extended": "https://www.solcy.xyz/extended.json"
+"homepage": "https://www.solcy.xyz"
 }
